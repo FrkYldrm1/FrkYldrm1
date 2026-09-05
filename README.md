@@ -1,27 +1,27 @@
 <!-- ========================================================= -->
 <!--                    FARUK YILDIRIM                         -->
-<!--          SOFTWARE • RESEARCH • AI SYSTEMS                -->
+<!--              SOFTWARE • RESEARCH • AI                    -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=FARUK%20YILDIRIM&fontSize=55&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20Research%20Software%20%E2%80%A2%20AI%20Systems&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=FARUK%20YILDIRIM&fontSize=55&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20Research%20Software%20%E2%80%A2%20AI&descAlignY=60&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&center=true&vCenter=true&width=850&lines=Computer+Science+Graduate;Software+Engineer;Research+Software+Developer;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+SQL;Exploring+AI+%26+LLM+Engineering;Turning+ideas+into+systems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=900&center=true&vCenter=true&width=850&lines=Computer+Science+Graduate;Software+Engineer;Research+Software+Developer;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+SQL;Exploring+AI+%26+LLM+Engineering;Turning+ideas+into+systems." alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<a href="www.linkedin.com/in/mfarukyildirim">
+<a href="https://www.linkedin.com/in/mfarukyildirim">
 <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://frkyldrm.dev">
 <img src="https://img.shields.io/badge/Portfolio-EXPLORE-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mhmt.faruk.yildirim@gmail.com">
 <img src="https://img.shields.io/badge/Email-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -29,124 +29,82 @@
 
 <img src="https://komarev.com/ghpvc/?username=FrkYldrm1&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-<img src="https://img.shields.io/github/followers/FrkYldrm1?style=for-the-badge&logo=github&label=FOLLOWERS"/>
-
 </div>
 
 ---
 
-# `$ whoami`
+# 👨‍💻 About Me
 
-```yaml
-name: Faruk Yildirim
+```python
+faruk = {
+    "education": "BSc Computer Science",
 
-location: Sweden 🇸🇪
+    "focus": [
+        "Software Engineering",
+        "Backend Development",
+        "Research Software",
+        "AI / ML Engineering"
+    ],
 
-education:
-  degree: BSc Computer Science
+    "experience": [
+        "Full-Stack Development",
+        "Research Software",
+        "Test Automation",
+        "APIs & Databases",
+        "Embedded Systems"
+    ],
 
-identity:
-  - Software Engineer
-  - Research Software Developer
-  - Technology Builder
+    "currently_exploring": [
+        "C# / .NET",
+        "PyTorch",
+        "Hugging Face Transformers",
+        "LLM Engineering"
+    ],
 
-current_focus:
-  - Software Engineering
-  - Research Software
-  - Backend Development
-  - AI / ML Engineering
-  - Cloud Technologies
-
-currently_working_with:
-  - Python
-  - Hugging Face
-  - Scientific ML Interfaces
-  - Full-Stack Applications
-  - Research Software
-
-currently_exploring:
-  - PyTorch
-  - Transformers
-  - LLM Fine-Tuning
-  - Model Evaluation
-  - C# / .NET
-
-philosophy:
-  "Build → Break → Understand → Improve"
+    "location": "Sweden 🇸🇪"
+}
 ```
+
+I enjoy turning technical ideas into **software that people can actually use**.
+
+My background spans software engineering, full-stack development, test automation,
+research software, APIs, databases and embedded systems.
+
+Currently exploring the engineering side of **machine learning and large language models**.
 
 ---
 
-# ⚡ `SYSTEM OVERVIEW`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                     FARUK // SYSTEMS                         │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  STATUS       ● BUILDING                                     │
-│  LOCATION     SWEDEN                                         │
-│  DOMAIN       SOFTWARE / RESEARCH / AI                       │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  SOFTWARE ENGINEERING                                        │
-│  ├── Object-Oriented Programming                             │
-│  ├── Software Architecture                                   │
-│  ├── Design Patterns                                         │
-│  ├── MVC / OOAD                                              │
-│  ├── REST APIs                                               │
-│  └── Testing & Automation                                    │
-│                                                              │
-│  BACKEND                                                     │
-│  ├── Python / FastAPI                                        │
-│  ├── Node.js                                                 │
-│  ├── SQL / MySQL                                             │
-│  ├── WebSockets                                              │
-│  └── API Development                                         │
-│                                                              │
-│  RESEARCH SOFTWARE                                           │
-│  ├── Hugging Face Spaces                                     │
-│  ├── Research ML Interfaces                                  │
-│  ├── Model Execution Workflows                               │
-│  ├── Scientific Software UX                                  │
-│  └── Researcher Collaboration                                │
-│                                                              │
-│  CURRENT EXPANSION                                           │
-│  └── PyTorch → Transformers → LoRA → LLM Engineering        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🧬 `TECHNOLOGY MATRIX`
+# 🚀 Tech Stack
 
 <div align="center">
 
-### `// CORE LANGUAGES`
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,cs,php,dart" />
 
 <br><br>
 
-### `// BACKEND & WEB`
+### Backend & Web
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs,html,css" />
 
 <br><br>
 
-### `// DATA & INFRASTRUCTURE`
+### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,linux,git,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 <br><br>
 
-### `// DEVELOPMENT`
+### Development Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,flutter,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman" />
+
+<br><br>
+
+### Mobile & Embedded
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,raspberrypi" />
 
 </div>
 
@@ -155,122 +113,110 @@ philosophy:
 <div align="center">
 
 `REST APIs`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `WebSockets`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `MQTT`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `JSON`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `XML`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `SQL`
 
 <br><br>
 
 `OOP`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `OOAD`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `MVC`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `UML`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `Design Patterns`
 
 <br><br>
 
 `JUnit`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `pytest`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `Selenium`
-&nbsp; • &nbsp;
+&nbsp;•&nbsp;
 `Test Automation`
 
 </div>
 
 ---
 
-# 🔬 `RESEARCH SOFTWARE // AI`
+# 🔬 Research Software & AI
 
-I enjoy working at the intersection of **software engineering and scientific research**.
+I work with software built around **scientific machine-learning models** and research workflows.
 
-My research-software experience includes building user-facing applications around machine-learning workflows and translating researcher requirements into usable software.
+My experience includes:
 
-```python
-research_environment = {
-    "language": "Python",
+- 🐍 Python-based research applications
+- 🤗 Hugging Face Spaces
+- 🧠 Interfaces for machine-learning models
+- ⚙️ Model execution workflows
+- 🎛️ Parameter and configuration systems
+- 🔬 Researcher-facing software
+- 🌿 Git-based research collaboration
 
-    "platforms": [
-        "Hugging Face Spaces",
-        "Git",
-        "GitHub"
-    ],
+I'm currently expanding deeper into:
 
-    "experience": [
-        "Research model interfaces",
-        "Scientific application development",
-        "Model execution workflows",
-        "Parameter & configuration systems",
-        "Research software UX",
-        "Collaboration with researchers"
-    ],
+<div align="center">
 
-    "next": [
-        "PyTorch",
-        "Transformers",
-        "LoRA / QLoRA",
-        "LLM Fine-Tuning",
-        "Model Evaluation"
-    ]
-}
-```
+`PyTorch`
+&nbsp;•&nbsp;
+`Transformers`
+&nbsp;•&nbsp;
+`Hugging Face`
+&nbsp;•&nbsp;
+`LoRA / QLoRA`
+&nbsp;•&nbsp;
+`LLM Fine-Tuning`
+&nbsp;•&nbsp;
+`Model Evaluation`
 
-### `AI ENGINEERING ROADMAP`
+</div>
+
+<br>
+
+### AI Engineering Roadmap
 
 ```text
-                    ┌───────────────┐
-                    │    PYTHON     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    PYTORCH    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │   TRANSFORMERS    │
-                  └─────────┬─────────┘
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-              ▼             ▼             ▼
-       TOKENIZATION      DATASETS      TRAINING
-                                            │
-                                            ▼
-                                  ┌────────────────┐
-                                  │ LoRA / QLoRA   │
-                                  └───────┬────────┘
-                                          │
-                                          ▼
-                                  ┌────────────────┐
-                                  │   EVALUATION   │
-                                  └───────┬────────┘
-                                          │
-                                          ▼
-                                  ┌────────────────┐
-                                  │   INFERENCE    │
-                                  └───────┬────────┘
-                                          │
-                                          ▼
-                                PRODUCTION AI SYSTEMS
+Python
+   │
+   ▼
+PyTorch
+   │
+   ▼
+Transformers
+   │
+   ├──────────────► Tokenization
+   │
+   ├──────────────► Dataset Engineering
+   │
+   ▼
+Fine-Tuning
+   │
+   ├──────────────► LoRA / QLoRA
+   │
+   ▼
+Evaluation
+   │
+   ▼
+Inference
+   │
+   ▼
+Production AI Systems
 ```
 
 ---
 
-# 🚀 `FEATURED SYSTEMS`
+# 🛠️ Selected Projects
 
 <table>
 
@@ -280,7 +226,7 @@ research_environment = {
 
 <h3>🤖 Agentic Companion</h3>
 
-AI-powered application combining a mobile client with an intelligent backend.
+AI-powered application combining a mobile frontend with an intelligent backend.
 
 <br>
 
@@ -294,7 +240,7 @@ AI-powered application combining a mobile client with an intelligent backend.
 
 <br><br>
 
-<b>Technologies</b>
+<b>Stack</b>
 
 <code>Python</code>
 <code>Flutter</code>
@@ -303,17 +249,15 @@ AI-powered application combining a mobile client with an intelligent backend.
 
 <br><br>
 
-<b>Focus</b>
-
-AI integration, real-time communication and software architecture.
+AI integration, backend architecture and real-time communication.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🛒 Full-Stack Commerce</h3>
+<h3>🛒 Full-Stack E-Commerce</h3>
 
-Modern full-stack e-commerce application with frontend, API and database integration.
+Modern full-stack application with frontend, backend and database integration.
 
 <br>
 
@@ -327,7 +271,7 @@ Modern full-stack e-commerce application with frontend, API and database integra
 
 <br><br>
 
-<b>Technologies</b>
+<b>Stack</b>
 
 <code>JavaScript</code>
 <code>Next.js</code>
@@ -336,9 +280,7 @@ Modern full-stack e-commerce application with frontend, API and database integra
 
 <br><br>
 
-<b>Focus</b>
-
-Full-stack architecture, APIs and database-driven applications.
+Full-stack architecture, APIs and database-driven development.
 
 </td>
 
@@ -348,9 +290,9 @@ Full-stack architecture, APIs and database-driven applications.
 
 <td width="50%" valign="top">
 
-<h3>🧪 Automation Framework</h3>
+<h3>🧪 Test Automation Framework</h3>
 
-Reusable test-automation architecture for web applications.
+Automated testing project focused on reusable and maintainable test architecture.
 
 <br>
 
@@ -368,9 +310,7 @@ Reusable test-automation architecture for web applications.
 
 <code>UI Automation</code>
 
-<code>Maintainability</code>
-
-<code>Reusable Test Architecture</code>
+<code>Test Architecture</code>
 
 </td>
 
@@ -378,7 +318,7 @@ Reusable test-automation architecture for web applications.
 
 <h3>🛰️ IoT Smart Security</h3>
 
-Event-driven embedded security system built around Raspberry Pi.
+Event-driven embedded security system built using Raspberry Pi.
 
 <br>
 
@@ -398,8 +338,6 @@ Event-driven embedded security system built around Raspberry Pi.
 
 <code>Embedded Systems</code>
 
-<code>Event-Driven Architecture</code>
-
 </td>
 
 </tr>
@@ -408,122 +346,60 @@ Event-driven embedded security system built around Raspberry Pi.
 
 ---
 
-# 🧠 `ENGINEERING PHILOSOPHY`
+# 🧠 Engineering
+
+```text
+Object-Oriented Programming
+│
+├── Software Architecture
+├── Design Patterns
+├── MVC
+├── OOAD
+├── UML
+│
+├── REST APIs
+├── WebSockets
+├── SQL & Database Design
+│
+├── Automated Testing
+├── Git Workflows
+│
+└── Research Software
+```
+
+---
+
+# 💡 Engineering Philosophy
 
 ```javascript
-class Engineer {
+while (alive) {
 
-    constructor() {
-        this.curiosity = Infinity;
-        this.finishedLearning = false;
+    learn();
+
+    const idea = explore();
+
+    const system = build(idea);
+
+    test(system);
+
+    if (system.breaks()) {
+        understand();
+        improve();
     }
 
-    build(idea) {
-
-        const system = design(idea);
-
-        implement(system);
-        test(system);
-
-        while (system.hasProblems()) {
-
-            debug(system);
-            understand(system);
-            improve(system);
-
-        }
-
-        ship(system);
-    }
-}
-
-
-const faruk = new Engineer();
-
-
-while (!faruk.finishedLearning) {
-
-    const knowledge = learn();
-
-    const idea = explore(knowledge);
-
-    faruk.build(idea);
-
+    ship(system);
 }
 ```
 
 ---
 
-# 🛰️ `ARCHITECTURE MINDSET`
-
-```text
-                         USER
-                           │
-                           ▼
-                 ┌─────────────────┐
-                 │    INTERFACE    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │       API       │
-                 └────────┬────────┘
-                          │
-                ┌─────────┴─────────┐
-                │                   │
-                ▼                   ▼
-        ┌──────────────┐    ┌──────────────┐
-        │   BUSINESS   │    │   AI / ML    │
-        │    LOGIC     │    │   SERVICE    │
-        └───────┬──────┘    └───────┬──────┘
-                │                   │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │    DATABASE     │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ INFRASTRUCTURE  │
-                 └─────────────────┘
-```
-
----
-
-# 🌱 `CURRENT TRANSMISSION`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  SOFTWARE ENGINEERING                                       │
-│  ████████████████████████████████████████░░░░░░            │
-│                                                             │
-│  BACKEND DEVELOPMENT                                        │
-│  █████████████████████████████████░░░░░░░░░░░░            │
-│                                                             │
-│  RESEARCH SOFTWARE                                          │
-│  ████████████████████████████░░░░░░░░░░░░░░░░            │
-│                                                             │
-│  AI / LLM ENGINEERING                                       │
-│  ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░            │
-│                                                             │
-│  C# / .NET                                                  │
-│  ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 📊 `GITHUB TELEMETRY`
+# 📊 GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FrkYldrm1&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FrkYldrm1&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrkYldrm1&layout=compact&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrkYldrm1&layout=compact&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -537,7 +413,7 @@ while (!faruk.finishedLearning) {
 
 ---
 
-# 📈 `DEVELOPMENT ACTIVITY`
+# 📈 Development Activity
 
 <div align="center">
 
@@ -547,66 +423,47 @@ while (!faruk.finishedLearning) {
 
 ---
 
-# 🏆 `GITHUB SIGNALS`
+# 🌱 Currently
 
-<div align="center">
+```text
+⚡ Strengthening my software engineering foundations
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=FrkYldrm1&no-frame=true&row=1&column=6"/>
+🔬 Building software around scientific research workflows
 
-</div>
+🐍 Working with Python
+
+🤗 Working with Hugging Face
+
+🧠 Exploring practical LLM engineering
+
+💻 Expanding into C# / .NET
+
+☁️ Learning more about cloud & AI infrastructure
+```
 
 ---
 
-# 💻 `RUNTIME STATUS`
+# 📡 Status
 
 ```console
-faruk@github:~$ whoami
-
-Faruk Yildirim
-Software Engineer
-Computer Science Graduate
-Research Software Developer
-
-
-faruk@github:~$ current-focus
-
-[+] Software Engineering
-[+] Research Software
-[+] Backend Systems
-[+] Artificial Intelligence
-[+] Cloud Technologies
-
-
-faruk@github:~$ mission
-
-> Build useful software.
-> Understand complex systems.
-> Learn continuously.
-> Turn research into usable technology.
-
-
 faruk@github:~$ status
 
-SYSTEM ONLINE
-
-Building...
-Learning...
-Experimenting...
+> Computer Science graduate
+> Building software
+> Working with research technology
+> Exploring intelligent systems
+> Learning continuously
 
 faruk@github:~$ _
 ```
 
 ---
 
-# 🤝 `CONNECT`
+# 🤝 Let's Connect
 
 <div align="center">
 
-### Interested in software, research, AI or building something interesting?
-
-<br>
-
-<a href="www.linkedin.com/in/mfarukyildirim">
+<a href="https://www.linkedin.com/in/mfarukyildirim">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -614,16 +471,16 @@ faruk@github:~$ _
 <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.frkyldrm.dev/">
+<a href="https://frkyldrm.dev">
 <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br><br>
 
-### `BUILD // BREAK // UNDERSTAND // IMPROVE`
+### ⚡ `BUILD → BREAK → UNDERSTAND → IMPROVE`
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer"/>
 
 </div>
