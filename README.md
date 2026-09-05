@@ -1,31 +1,43 @@
-## Hi!👋
+<!-- ===== HERO ===== -->
 
-### Familiar development tools and technologies  
-| | |
-|:------------- |:---------------:|
-| **Programming Languages:** | Java, Python, PHP, JavaScript, SQL, Matlab, Dart |
-| **Web Technologies:** | HTML, CSS, XML, JSON, Java Web Server, Node.js |
-| **Database:** | MySQL |
-| **Version Control Systems:** | Git, GitHub, GitLab |
-| **Testing Tools:** | JUnit, pytest, Selenium |
-| **Mobile Application Development:** | Flutter, Android Studio |
-| **Operating Systems:** | Linux, Windows, Android |
-| **Modelling Languages / Tools:** | UML |
-| **Productivity software:** | Office 365, Google Workspace |
-| **Embedded Systems Languages / Platforms:** | Raspberry Pi, MicroPython, MQTT, Assembly |
-| **Software Design:** |OOAD,OOP, MVC,Design Patterns,   |
+<div align="center">
 
-<!--
-**FrkYldrm1/FrkYldrm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Faruk%20Yildirim&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Research%20Software%20%7C%20AI&descAlign=50&descAlignY=58&animation=fadeIn"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Software+Engineer;Python+%7C+Java+%7C+JavaScript+%7C+SQL;Building+software+around+research+and+AI;Always+learning.+Always+building." alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=FrkYldrm1&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/FrkYldrm1?style=for-the-badge)
+
+</div>
+
+
+## 👨‍💻 About Me
+
+```python
+faruk = {
+    "education": "BSc Computer Science",
+    "focus": [
+        "Software Engineering",
+        "Backend Development",
+        "Research Software",
+        "AI / ML Engineering"
+    ],
+    "currently_working_on": "Research software & ML interfaces",
+    "currently_learning": [
+        "C# / .NET",
+        "PyTorch",
+        "Hugging Face",
+        "LLM Engineering"
+    ],
+    "interests": [
+        "Distributed Systems",
+        "Artificial Intelligence",
+        "Cloud",
+        "Developer Tools"
+    ]
+}
