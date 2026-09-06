@@ -80,7 +80,7 @@ Currently exploring the engineering side of **machine learning and large languag
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,cs,php,dart" />
+<img src="https://skillicons.dev/icons?i=python,java,js,dart" />
 
 <br><br>
 
